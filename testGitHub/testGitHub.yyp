@@ -34,6 +34,7 @@
   },
   "name":"testGitHub",
   "resources":[
+    {"id":{"name":"ok","path":"objects/ok/ok.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "resourceType":"GMProject",
